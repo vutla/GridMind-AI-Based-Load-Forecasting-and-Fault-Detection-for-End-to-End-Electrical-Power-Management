@@ -1,0 +1,1 @@
+# GridMind-AI-Based-Load-Forecasting-and-Fault-Detection-for-End-to-End-Electrical-Power-Management
